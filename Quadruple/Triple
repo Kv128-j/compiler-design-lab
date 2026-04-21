@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("Intermediate code (quadruple/triple).\n");
+    return 0;
+}
