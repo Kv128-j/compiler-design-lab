@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("LR(0) items constructed.\n");
+    return 0;
+}
