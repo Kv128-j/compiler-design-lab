@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("Global data flow analysis example.\n");
+    return 0;
+}
