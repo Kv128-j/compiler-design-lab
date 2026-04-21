@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("Example:\nA -> Aα | β\n");
+    printf("Converted:\nA -> βA'\nA' -> αA' | ε\n");
+    return 0;
+}
